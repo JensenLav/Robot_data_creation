@@ -1,5 +1,6 @@
 #%%
 import random
+import json
 #%%
 colors = ["red block", "green block", "blue block", "yellow block"]
 block_num = [1,2,3,4,5,6,7,8]
@@ -35,3 +36,13 @@ print("goal: " , rand_goal_list[2])
 
 rand_state_list = rand_state(rand_goal_list[3], rand_goal_list[0])
 print("current state: ", rand_state_list)
+#%%
+combined_json = {
+    "Goal_State": rand_goal_list[2],
+    "Current_State": rand_state_list,
+    "Pick": None,
+    "Place": None
+}
+
+final_json = json.dumps(combined_json, indent=3)
+print("Block Stacking:", final_json)

@@ -1,0 +1,420 @@
+data_1:
+{
+   "Goal_State": [
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "green block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_2:
+{
+   "Goal_State": [
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "green block"
+      ],
+      [
+         "blue block",
+         "on",
+         "red block"
+      ],
+      [
+         "yellow block",
+         "on",
+         "blue block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "yellow block"
+      ],
+      [
+         "red block",
+         "on",
+         "blue block"
+      ],
+      [
+         "green block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_3:
+{
+   "Goal_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "yellow block"
+      ],
+      [
+         "red block",
+         "on",
+         "green block"
+      ],
+      [
+         "blue block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "green block"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_4:
+{
+   "Goal_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "blue block"
+      ],
+      [
+         "yellow block",
+         "on",
+         "green block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "green block"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_5:
+{
+   "Goal_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "red block"
+      ],
+      [
+         "blue block",
+         "on",
+         "yellow block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "table"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_6:
+{
+   "Goal_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "yellow block"
+      ],
+      [
+         "blue block",
+         "on",
+         "green block"
+      ],
+      [
+         "red block",
+         "on",
+         "blue block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "blue block"
+      ],
+      [
+         "yellow block",
+         "on",
+         "green block"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_7:
+{
+   "Goal_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "blue block"
+      ],
+      [
+         "yellow block",
+         "on",
+         "green block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "table"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_8:
+{
+   "Goal_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "blue block"
+      ],
+      [
+         "red block",
+         "on",
+         "yellow block"
+      ],
+      [
+         "green block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "table"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_9:
+{
+   "Goal_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "table"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
+data_10:
+{
+   "Goal_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "blue block"
+      ],
+      [
+         "green block",
+         "on",
+         "red block"
+      ],
+      [
+         "yellow block",
+         "on",
+         "green block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "green block",
+         "on",
+         "yellow block"
+      ],
+      [
+         "red block",
+         "on",
+         "green block"
+      ],
+      [
+         "blue block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}

@@ -1,0 +1,165 @@
+data_1:
+{
+   "Goal_State": [
+      [
+         "green block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "green block"
+      ],
+      [
+         "yellow block",
+         "on",
+         "blue block"
+      ],
+      [
+         "red block",
+         "on",
+         "yellow block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "yellow block"
+      ],
+      [
+         "green block",
+         "on",
+         "blue block"
+      ]
+   ],
+   "Pick": "green block",
+   "Place": "table"
+}
+data_2:
+{
+   "Goal_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "blue block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Pick": "blue block",
+   "Place": "table"
+}
+data_3:
+{
+   "Goal_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "yellow block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "table"
+      ]
+   ],
+   "Pick": "red block",
+   "Place": "yellow block"
+}
+data_4:
+{
+   "Goal_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "yellow block",
+         "on",
+         "blue block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "yellow block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "yellow block"
+      ]
+   ],
+   "Pick": "blue block",
+   "Place": "table"
+}
+data_5:
+{
+   "Goal_State": [
+      [
+         "red block",
+         "on",
+         "table"
+      ],
+      [
+         "blue block",
+         "on",
+         "red block"
+      ]
+   ],
+   "Current_State": [
+      [
+         "blue block",
+         "on",
+         "table"
+      ],
+      [
+         "red block",
+         "on",
+         "blue block"
+      ]
+   ],
+   "Pick": null,
+   "Place": null
+}
